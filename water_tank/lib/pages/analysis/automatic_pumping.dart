@@ -11,8 +11,8 @@ class AutoPumpingAnalysis extends StatefulWidget {
 }
 
 class AutoPumpingAnalysisState extends State<AutoPumpingAnalysis> {
-  final String channelID = "2869949";
-  final String apiKey = "S67XCMKI89F5VYLO";
+  final String channelID = "channel id";
+  final String apiKey = "api key";
   List<Map<String, String>> logs = [];
   Duration totalOnDuration = Duration.zero;
   bool isLoading = false;

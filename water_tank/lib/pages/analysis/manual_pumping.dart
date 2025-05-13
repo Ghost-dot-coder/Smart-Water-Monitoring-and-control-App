@@ -12,8 +12,8 @@ class ManualAnalysis extends StatefulWidget {
 }
 
 class ManualAnalysisState extends State<ManualAnalysis> {
-  final String channelID = "2870066";
-  final String apiKey = "P13S019FE0UUHFFH";
+  final String channelID = "channel id";
+  final String apiKey = "api key";
   List<Map<String, String>> motorLogs = [];
   Duration totalOnDuration = Duration.zero;
   bool isLoading = false;

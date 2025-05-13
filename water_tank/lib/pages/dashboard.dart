@@ -19,13 +19,13 @@ class DashboardState extends State<Dashboard> {
   Map<String, dynamic> _data = {};
   bool _motorStatus = false;
   String _objectDetected = '';
-  final String channelId = '2869949';
-  final String motorChannelId = '2870066';
-  final String objectDetectionChannelId = '2870176';
-  final String readApiKey = 'S67XCMKI89F5VYLO';
-  final String motorReadApiKey = 'P13S019FE0UUHFFH';
-  final String objectDetectionReadApiKey = 'UIKH1PJHP99SV3KP';
-  final String writeApiKey = 'YFMDIP4GH8TQVFUN';
+  final String channelId = 'cahnnel id';
+  final String motorChannelId = 'channel id';
+  final String objectDetectionChannelId = 'channel id';
+  final String readApiKey = 'api key';
+  final String motorReadApiKey = 'api key';
+  final String objectDetectionReadApiKey = 'api key';
+  final String writeApiKey = 'api key';
 
   @override
   void initState() {

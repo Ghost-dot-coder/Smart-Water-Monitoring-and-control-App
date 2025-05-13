@@ -42,13 +42,11 @@ An IoT-based smart water tank system with real-time monitoring, water potability
 
 ## 📱 Screenshots
 
-### 🔐 Login Screen
-![Login Screen](water-pics/login_screen.png)
+<p align="center">
+  <img src="water-pics/login_screen.png" alt="Login Screen" width="200" style="margin-right: 10px;" />
+  <img src="water-pics/Dashboard.png" alt="Dashboard" width="200" style="margin-right: 10px;" />
+  <img src="water-pics/Quality.png" alt="Alert" width="200" />
+</p>
 
-### 📊 Dashboard
-![Dashboard](water-pics/Dashboard.png)
-
-### 🚨 Water Quality Alert
-![Alert](water-pics/Quality.png)
 
 

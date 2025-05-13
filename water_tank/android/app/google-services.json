@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827990557210",
+    "project_id": "water-tank-2",
+    "storage_bucket": "water-tank-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827990557210:android:aa3d7ecf3466a9e35847a3",
+        "android_client_info": {
+          "package_name": "com.example.water_tank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAincVm_DIZyR8-8Gh1--eByJMC3osx6Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
